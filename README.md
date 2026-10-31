@@ -6,7 +6,7 @@
 
 A browser-based 3D driving game with endless highway survival, circuit racing, and local split-screen multiplayer.
 
-![OVERDRIVE Garage](assets/garage.png)
+![OVERDRIVE Garage](assets/car-preview.png)
 
 [Game modes](#-game-modes) · [Screenshots](#-screenshots) · [Controls](#-controls) · [Run locally](#-getting-started)
 
