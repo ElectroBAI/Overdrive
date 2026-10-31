@@ -6,7 +6,7 @@
 
 A browser-based 3D driving game with endless highway survival, circuit racing, and local split-screen multiplayer.
 
-![OVERDRIVE Garage](assets/garage.jpg)
+![OVERDRIVE Garage](assets/garage.png)
 
 [Game modes](#-game-modes) · [Screenshots](#-screenshots) · [Controls](#-controls) · [Run locally](#-getting-started)
 
@@ -70,7 +70,7 @@ Two players, one keyboard, split-screen racing.
 
 Choose one of five paint colours and set the Endless Traffic difficulty.
 
-![OVERDRIVE Garage](assets/garage.jpg)
+![OVERDRIVE Garage](assets/garage.png)
 
 ### 3D Car Preview
 
